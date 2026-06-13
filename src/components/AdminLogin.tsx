@@ -303,7 +303,7 @@ export default function AdminLogin({ onSuccess, onGoBack, onNotify }: AdminLogin
         <div className="pt-4 border-t border-slate-100 flex items-start gap-2 text-slate-400 text-[10px] leading-normal font-sans">
           <Info className="w-3.5 h-3.5 text-[#8B0022] shrink-0 mt-0.5" />
           <span>
-            <strong>Catatan Masuk:</strong> Akun default Anda telah disiapkan oleh sistem. Silakan login langsung menggunakan email</strong>.
+            <strong>Catatan Masuk:</strong> Akun default Anda telah disiapkan oleh sistem. Silakan login langsung menggunakan email.
           </span>
         </div>
 
